@@ -20,6 +20,10 @@ Essa documentação descreve todos os casos de uso, e telas, do sistema **e-Esco
 
 ![Use case diagram!](/assets/images/diagram2.jpeg "use case diagram student")
 
+## Diagrama de Sequência
+
+![Sequence diagram!](/assets/images/sequence.png "sequence diagram image")
+
 ## Telas Prototipadas
 
 ![Screen by system!](/assets/images/system1.png "screen 1 by system")
