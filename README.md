@@ -14,9 +14,11 @@ Essa documentação descreve todos os casos de uso, e telas, do sistema **e-Esco
 
 ### 1. Professor
 
+![Use case diagram!](/assets/images/diagram1.jpeg "use case diagram professor")
 
 ### 2. Aluno
 
+![Use case diagram!](/assets/images/diagram2.jpeg "use case diagram student")
 
 ## Telas Prototipadas
 
