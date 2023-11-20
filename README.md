@@ -22,8 +22,30 @@ Essa documentação descreve todos os casos de uso, e telas, do sistema **e-Esco
 
 ## Telas Prototipadas
 
-### 1. Login
+![Screen by system!](/assets/images/system1.jpeg "screen 1 by system")
 
-### 2. Dashboard
+![Screen by system!](/assets/images/system2.jpeg "screen 2 by system")
 
-### 3. Cadastro Aluno
+![Screen by system!](/assets/images/system3.jpeg "screen 3 by system")
+
+![Screen by system!](/assets/images/system4.jpeg "screen 4 by system")
+
+![Screen by system!](/assets/images/system5.jpeg "screen 5 by system")
+
+![Screen by system!](/assets/images/system6.jpeg "screen 6 by system")
+
+![Screen by system!](/assets/images/system7.jpeg "screen 7 by system")
+
+![Screen by system!](/assets/images/system8.jpeg "screen 8 by system")
+
+![Screen by system!](/assets/images/system9.jpeg "screen 9 by system")
+
+![Screen by system!](/assets/images/system10.jpeg "screen 10 by system")
+
+![Screen by system!](/assets/images/system11.jpeg "screen 11 by system")
+
+![Screen by system!](/assets/images/system12.jpeg "screen 12 by system")
+
+![Screen by system!](/assets/images/system13.jpeg "screen 13 by system")
+
+![Screen by system!](/assets/images/system14.jpeg "screen 14 by system")
